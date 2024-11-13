@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Pushpendra Sharma - Portfolio
+email: sharmapushpendra342@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Welcome to my portfolio! Here, you’ll find a collection of my work, including blogs where I share insights and learning experiences, a resume outlining my professional journey, and a showcase of projects that highlight my skills in data analysis, engineering, and machine learning.
+  Dive into my experiences to see how I approach challenges and drive impactful solutions. Thank you for visiting, and feel free to reach out with any questions or collaboration ideas!.
+twitter_username: sharmap342
+github_username: sharmap342
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +57,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Pushpendra Sharma"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "In this age of AI, I think the biggest source of man's intelligence is perhaps curiosity.
+  I am a certified data scientist with more than 5 years of hands-on experience in collecting, organizing, interpreting, and reporting data to drive successful business solutions.
+  A hard-working individual who possesses patient, detailed-oriented personalities, and teamwork acumen to complete the tasks in a fast-paced environment."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
