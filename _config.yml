@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pushpendra Sharma - Portfolio
-email: sharmapushpendra342@gmail.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio! Here, you’ll find a collection of my work, including blogs where I share insights and learning experiences, a resume outlining my professional journey, and a showcase of projects that highlight my skills in data analysis, engineering, and machine learning.
   Dive into my experiences to see how I approach challenges and drive impactful solutions. Thank you for visiting, and feel free to reach out with any questions or collaboration ideas!.
@@ -62,30 +62,33 @@ author:
   bio    : "In this age of AI, I think the biggest source of man's intelligence is perhaps curiosity.
   I am a certified data science engineer with more than 5 years of hands-on experience in collecting, organizing, interpreting, modelling and reporting data to drive successful business solutions."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sharmap342"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/psharma7/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@sharmapushpendra342"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.ca/citations?user=cmbYHSoAAAAJ&hl=en"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sharmap342"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/psharma7/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@sharmapushpendra342"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.ca/citations?user=cmbYHSoAAAAJ&hl=en"
 
 defaults:
   # _posts
