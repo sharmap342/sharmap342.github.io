@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-# About Me
+*“In this age of AI, I think the biggest source of man’s intelligence is perhaps curiosity.”*
 
 ## Summary
 Dynamic data professional with expertise in data analytics, engineering, machine learning, and deep learning. Skilled in using Python, SQL, and SAS to develop data pipelines, create machine learning models, and deliver actionable insights for business decision-making. Currently a Senior Data Analyst at CIBC, where I leverage my knowledge of advanced analytics and data visualization to support risk and client account management initiatives.
