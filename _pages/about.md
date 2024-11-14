@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+# title: "About"
 ---
 
 *“In this age of AI, I think the biggest source of man’s intelligence is perhaps curiosity.”*
