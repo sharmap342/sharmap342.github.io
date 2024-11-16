@@ -7,3 +7,5 @@ main:
     url: /posts/
   - title: "Skills"
     url: /tags/
+  - title: "Collections"
+    url: /collection-archive/
