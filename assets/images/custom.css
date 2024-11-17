@@ -17,3 +17,22 @@
     background-color: #f9f9f9; /* Optional background */
     padding: 20px; /* Add some spacing */
   }
+
+  .project img {
+    margin-left: 20px; /* Adds space on the left of the image */
+    padding-left: 20px; /* Optional: Adds internal spacing if needed */
+  }
+  
+  .project {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px; /* Space between project items */
+  }
+  
+  .project > img {
+    margin-right: 20px; /* Space between the image and project details */
+  }
+  
+  .project-details {
+    padding-left: 20px; /* Additional spacing inside project details */
+  }
