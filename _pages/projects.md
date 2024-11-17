@@ -1,16 +1,14 @@
 ---
 permalink: /projects/
-layout: single
+layout: tags
 classes: wide
+author_profile: false
 # title: "About"
 ---
 
-
-# Selected Works
-
 <div class="project">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/path-to-your-image1.jpg" alt="Project Image 1" style="width: 150px; height: auto; margin-right: 20px;"/>
+    <img src="/assets/images/bio-photo.png" alt="Project Image 1" style="width: 150px; height: auto; margin-right: 20px;"/>
     <div>
       <h2 style="margin: 0;">Project Title 1</h2>
       <p>Short description about the project, its purpose, and any key details. For example, a survey on deep learning and complex systems.</p>
