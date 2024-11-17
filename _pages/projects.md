@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-layout: tags
+layout: single
 classes: wide
 author_profile: false
 # title: "About"
