@@ -6,7 +6,7 @@ author_profile: false
 # title: "About"
 ---
 
-<div>
+<div class="full-width-projects">
   <!-- Filter Navigation -->
   <div style="margin-bottom: 20px; text-align: center;">
     <button onclick="filterProjects('all')" style="margin-right: 10px; padding: 10px;">All</button>

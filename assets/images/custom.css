@@ -1,0 +1,19 @@
+/* Remove container constraints for the full-width section */
+.full-width-projects {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  body .full-width-projects > div {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  /* Optional: Extend background color or align items for a better look */
+  body .full-width-projects {
+    background-color: #f9f9f9; /* Optional background */
+    padding: 20px; /* Add some spacing */
+  }
