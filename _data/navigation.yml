@@ -2,10 +2,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /categories/
+    url: /projects/
   - title: "Blog"
     url: /posts/
   - title: "Skills"
     url: /tags/
-  - title: "Collections"
-    url: /collection-archive/

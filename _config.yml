@@ -97,12 +97,6 @@ footer:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.ca/citations?user=cmbYHSoAAAAJ&hl=en"
 
-# Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _posts
   - scope:
@@ -122,14 +116,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
 
 category_archive:
   type: liquid
