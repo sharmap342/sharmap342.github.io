@@ -1,9 +1,9 @@
 ---
 permalink: /projects/
-layout: single
+layout: default
 classes: wide
 author_profile: false
-# title: "About"
+title: "Projects"
 ---
 
 <div class="full-width-projects">
