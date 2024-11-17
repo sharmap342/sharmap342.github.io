@@ -1,38 +1,32 @@
-/* Remove container constraints for the full-width section */
-.full-width-projects {
+/* Full-width container adjustments */
+body .full-width-projects {
     margin: 0;
-    padding: 0;
+    padding: 20px; /* Uniform padding */
     width: 100%;
+    background-color: #f9f9f9;
   }
   
   body .full-width-projects > div {
-    margin-left: 20px;
-    margin-right: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin: 20px auto; /* Center the section */
+    max-width: 1200px; /* Optional: Restrict width for better layout */
   }
   
-  /* Optional: Extend background color or align items for a better look */
-  body .full-width-projects {
-    background-color: #f9f9f9; /* Optional background */
-    padding: 20px; /* Add some spacing */
-  }
-
-  .project img {
-    margin-left: 20px; /* Adds space on the left of the image */
-    padding-left: 20px; /* Optional: Adds internal spacing if needed */
+  /* Image spacing adjustments */
+  body .full-width-projects .project img {
+    margin-left: 20px; /* Space on the left */
+    margin-right: 20px; /* Space between image and text */
+    width: 150px; /* Optional: Control image size */
+    height: auto; /* Keep aspect ratio */
   }
   
-  .project {
+  /* Project container alignment */
+  body .full-width-projects .project {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 20px; /* Space between project items */
+    margin-bottom: 30px; /* Space between projects */
   }
   
-  .project > img {
-    margin-right: 20px; /* Space between the image and project details */
-  }
-  
-  .project-details {
-    padding-left: 20px; /* Additional spacing inside project details */
+  /* Project details spacing */
+  body .full-width-projects .project-details {
+    padding-left: 20px; /* Space between text and image */
   }
