@@ -18,7 +18,7 @@ title: "Projects"
   <div class="project" id="project-container">
     <!-- Data Science Project -->
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/assets/images/bio-photo.png" alt="Project Image 1" style="width: 150px; height: auto; margin-right: 20px;"/>
+      <img src="/assets/images/bio-photo.png" alt="Project Image 1" style="width: 150px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Data Science Project 1</h2>
         <p>Short description of the project. For example, a sentiment analysis on tweets.</p>
