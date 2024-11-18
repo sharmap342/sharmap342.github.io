@@ -20,10 +20,10 @@ title: "Projects"
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/data.gif" alt="Project Image 1" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
-        <h2 style="margin: 0;">Data Science Project 1</h2>
-        <p>Short description of the project. For example, a sentiment analysis on tweets.</p>
+        <h2 style="margin: 0;">Real-Time Sentiment Analysis on Twitter Data</h2>
+        <p>Developed a real-time sentiment analysis application that processes Twitter data using machine learning models like Logistic Regression, XGBoost, and neural networks. Cleaned and transformed 1.6 million tweets with regex and NLTK to improve model accuracy, leveraging scikit-learn and Keras for text classification.</p>
         <p>
-          <a href="https://github.com/your-repo1" target="_blank">GitHub</a> |
+          <a href="https://github.com/sharmap342/Sentiment_Analyzer_App" target="_blank">GitHub</a> |
           <a href="https://your-project-link1.com" target="_blank">Live Demo</a>
         </p>
       </div>
@@ -44,13 +44,13 @@ title: "Projects"
 
     <!-- Another Data Science Project -->
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/path-to-image3.jpg" alt="Project Image 3" style="width: 150px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/path-to-image3.jpg" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
-        <h2 style="margin: 0;">Data Science Project 2</h2>
-        <p>Another project description, like developing machine learning models.</p>
+        <h2 style="margin: 0;">Exploring Toronto's Housing Market: Data Analysis and Visualization</h2>
+        <p>This project investigates the causes of high housing prices in Toronto through exploratory data analysis and interactive visualizations. Housing data was scraped from PDF files provided by the Toronto Regional Real Estate Board, cleaned, and transformed into CSV format for analysis. The project includes insights into housing prices across different city areas and features a Streamlit-based app for interactive visualization, enhancing user understanding of market trends.</p>
         <p>
-          <a href="https://github.com/your-repo3" target="_blank">GitHub</a> |
-          <a href="https://your-project-link3.com" target="_blank">Live Demo</a>
+          <a href="https://github.com/sharmap342/Why_High_Housing_Prices_Toronto" target="_blank">GitHub</a> |
+          <a href="https://sharmap342-why-high-housing-prices-toronto-srcapp-s0vod1.streamlit.app/" target="_blank">Live App</a>
         </p>
       </div>
     </div>
