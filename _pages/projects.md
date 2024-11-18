@@ -31,7 +31,7 @@ title: "Projects"
 
     <!-- Data Engineering Project -->
     <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/path-to-image2.jpg" alt="Project Image 2" style="width: 150px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/assets/images/tohp.gif" alt="Project Image 2" style="width: 150px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Data Engineering Project 1</h2>
         <p>Description about building ETL pipelines or automation with Azure Data Factory.</p>
