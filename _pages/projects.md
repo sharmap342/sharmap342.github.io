@@ -18,7 +18,7 @@ title: "Projects"
   <div class="project" id="project-container">
     <!-- Data Science Project -->
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/assets/images/data.gif" alt="Project Image 1" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/assets/images/senti.gif" alt="Project Image 1" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Real-Time Sentiment Analysis on Twitter Data</h2>
         <p>Developed a real-time sentiment analysis application that processes Twitter data using machine learning models like Logistic Regression, XGBoost, and neural networks. Cleaned and transformed 1.6 million tweets with regex and NLTK to improve model accuracy, leveraging scikit-learn and Keras for text classification.</p>
