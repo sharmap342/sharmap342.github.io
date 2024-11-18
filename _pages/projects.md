@@ -44,7 +44,7 @@ title: "Projects"
 
     <!-- Another Data Science Project -->
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/path-to-image3.jpg" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/assets/images/tohp.gif" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Exploring Toronto's Housing Market: Data Analysis and Visualization</h2>
         <p>This project investigates the causes of high housing prices in Toronto through exploratory data analysis and interactive visualizations. Housing data was scraped from PDF files provided by the Toronto Regional Real Estate Board, cleaned, and transformed into CSV format for analysis. The project includes insights into housing prices across different city areas and features a Streamlit-based app for interactive visualization, enhancing user understanding of market trends.</p>
