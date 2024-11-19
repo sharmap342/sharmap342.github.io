@@ -76,7 +76,7 @@ title: "Projects"
         <p>Created a Python bot that sends a daily email with a word from a personalized vocabulary list. Leveraged Selenium and Beautiful Soup for web scraping, smtplib for email automation, and Windows Task Scheduler for daily execution, offering a practical approach to vocabulary building tailored to your preferences.</p>
         <p>
           <a href="https://github.com/sharmap342/A_Word_A_Day_Bot" target="_blank">GitHub</a> |
-          <a href="https://medium.com/@sharmapushpendra342/developing-a-word-a-day-bot-using-python-6088080e1d12"_blank">Blog</a>
+          <a href="https://medium.com/@sharmapushpendra342/developing-a-word-a-day-bot-using-python-6088080e1d12" target= "_blank">Blog</a>
         </p>
       </div>
     </div>
@@ -89,7 +89,7 @@ title: "Projects"
         <p>Developed a numerical modeling framework to design and evaluate seals for tunnels in deep geological repositories, minimizing excavation damage zones (EDZs). Assessed the impact of seal shapes, geological settings, material properties, and thermal effects using ITASCA's FISH language. Identified trapezoidal seals as optimal for reducing contaminant transport under diverse conditions.</p>
         <p>
           <a href="https://github.com/sharmap342/FISH_Java_Codes_Numerical_Methods" target="_blank">GitHub</a> |
-          <a href="https://ys.library.yorku.ca/items/a557bb77-3164-41ae-a75e-11412bf3a1cc"_blank">Thesis</a>
+          <a href="https://ys.library.yorku.ca/items/a557bb77-3164-41ae-a75e-11412bf3a1cc" target="_blank">Thesis</a>
         </p>
       </div>
     </div>
