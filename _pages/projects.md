@@ -57,7 +57,7 @@ title: "Projects"
 
     <!-- Another Data Science Project -->
     <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/assets/images/jobs.png" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/assets/images/jobs.gif" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Web Scraping Data Analyst Job Listings from Indeed</h2>
         <p>This project involves using Beautiful Soup to scrape data analyst job listings from Indeed for the Toronto region. The scraped data, including job titles, companies, and locations, is exported to a CSV file, enabling further analysis and insights.</p>
