@@ -68,6 +68,19 @@ title: "Projects"
       </div>
     </div>
 
+    <!-- Another Data Science Project -->
+    <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="/assets/images/word.gif" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <div>
+        <h2 style="margin: 0;">A Word A Day Bot: Personalized Vocabulary Builder</h2>
+        <p>Created a Python bot that sends a daily email with a word from a personalized vocabulary list. Leveraged Selenium and Beautiful Soup for web scraping, smtplib for email automation, and Windows Task Scheduler for daily execution, offering a practical approach to vocabulary building tailored to your preferences.</p>
+        <p>
+          <a href="https://github.com/sharmap342/A_Word_A_Day_Bot" target="_blank">GitHub</a> |
+          <a href="https://medium.com/@sharmapushpendra342/developing-a-word-a-day-bot-using-python-6088080e1d12"_blank">Blog</a>
+        </p>
+      </div>
+    </div>
+
     <!-- Data Engineering Project -->
     <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/slope.png" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
