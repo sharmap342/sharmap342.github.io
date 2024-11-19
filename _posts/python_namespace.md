@@ -8,10 +8,7 @@ tags:
   - Data Science
 link: https://medium.com/@sharmapushpendra342/understanding-namespace-and-scope-for-classes-in-python-9fb52830ce17
 ---
-
+> "Namespaces are one honking great idea - let's do more of those!" --The Zen of Python
 Objects are the foundation of Python, accessed through namespaces that define scopes for code blocks. This article explores OOP concepts, namespaces, and scopes, focusing on their application to classes and objects in Python.
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
 
-> And this is how a quote looks.
 
-Some [link](#) can also be shown.
