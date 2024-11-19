@@ -54,6 +54,31 @@ title: "Projects"
         </p>
       </div>
     </div>
+
+    <!-- Another Data Science Project -->
+    <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="/assets/images/jobs.png" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <div>
+        <h2 style="margin: 0;">Web Scraping Data Analyst Job Listings from Indeed</h2>
+        <p>This project involves using Beautiful Soup to scrape data analyst job listings from Indeed for the Toronto region. The scraped data, including job titles, companies, and locations, is exported to a CSV file, enabling further analysis and insights.</p>
+        <p>
+          <a href="https://github.com/sharmap342/Beautiful_Soup_HTML_Web_Scraping" target="_blank">GitHub</a> |
+          <a href="https://medium.com/@sharmapushpendra342/scraping-data-analyst-job-listings-from-indeed-52f1d24a09c0" target="_blank">Blog</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Data Engineering Project -->
+    <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="/assets/images/slope.png" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <div>
+        <h2 style="margin: 0;">Developing Finite Element Analysis Software in MATLAB</h2>
+        <p>Developed a comprehensive MATLAB package for slope stability analysis using elastic and elasto-plastic finite element methods. The project includes modules for data preparation, mesh generation, integration, and stress-strain visualization, along with an interactive plotting system for analyzing displacement and stress contours.</p>
+        <p>
+          <a href="https://github.com/sharmap342/Matlab_FEA_Computational_Mechanics" target="_blank">GitHub</a> |
+        </p>
+      </div>
+    </div>
   </div>
 </div>
 
