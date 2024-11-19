@@ -81,6 +81,19 @@ title: "Projects"
       </div>
     </div>
 
+    <!-- Another Data Science Project -->
+    <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
+      <img src="/assets/images/cutoff.jpg" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <div>
+        <h2 style="margin: 0;">Optimizing Seal Designs for Nuclear Waste Repositories</h2>
+        <p>Developed a numerical modeling framework to design and evaluate seals for tunnels in deep geological repositories, minimizing excavation damage zones (EDZs). Assessed the impact of seal shapes, geological settings, material properties, and thermal effects using ITASCA's FISH language. Identified trapezoidal seals as optimal for reducing contaminant transport under diverse conditions.</p>
+        <p>
+          <a href="https://github.com/sharmap342/FISH_Java_Codes_Numerical_Methods" target="_blank">GitHub</a> |
+          <a href="https://ys.library.yorku.ca/items/a557bb77-3164-41ae-a75e-11412bf3a1cc"_blank">Thesis</a>
+        </p>
+      </div>
+    </div>
+
     <!-- Data Engineering Project -->
     <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/slope.png" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
