@@ -1,6 +1,6 @@
 ---
 title: "Using Built-in Methods for User-defined Classes in Python."
-date: 2021-04-09
+date: 2021-05-09
 last_modified_at: 2021-04-09T16:20:02-05:00
 categories:
   - Blog
