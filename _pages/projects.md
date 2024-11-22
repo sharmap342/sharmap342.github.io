@@ -9,9 +9,10 @@ title: "Projects"
 <div class="full-width-projects">
   <!-- Filter Navigation -->
   <div style="margin-bottom: 20px; text-align: center;">
-    <button onclick="filterProjects('all')" style="margin-right: 10px; padding: 10px;">All</button>
     <button onclick="filterProjects('data-science')" style="margin-right: 10px; padding: 10px;">Data Science</button>
     <button onclick="filterProjects('data-engineering')" style="padding: 10px;">Data Engineering</button>
+    <button onclick="filterProjects('software-engineering')" style="margin-right: 10px; padding: 10px;">Software Engineering</button>
+    <button onclick="filterProjects('all')" style="margin-right: 10px; padding: 10px;">All</button>
   </div>
 
   <!-- Project List -->
@@ -81,8 +82,8 @@ title: "Projects"
       </div>
     </div>
 
-    <!-- Another Data Science Project -->
-    <div class="project-item data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <!-- Software Engineering Project -->
+    <div class="project-item software-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/cutoff.jpg" alt="Project Image 3" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Optimizing Seal Designs for Nuclear Waste Repositories</h2>
@@ -94,8 +95,8 @@ title: "Projects"
       </div>
     </div>
 
-    <!-- Data Engineering Project -->
-    <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <!-- Software Engineering Project -->
+    <div class="project-item software-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/slope.png" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Developing Finite Element Analysis Software in MATLAB</h2>
