@@ -121,4 +121,8 @@ title: "Projects"
       }
     });
   }
+  // Set default category to 'data-science' on page load
+  window.onload = function() {
+    filterProjects('data-science');
+  };
 </script>
