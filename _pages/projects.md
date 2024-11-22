@@ -9,10 +9,22 @@ title: "Projects"
 <div class="full-width-projects">
   <!-- Filter Navigation -->
   <div style="margin-bottom: 20px; text-align: center;">
-    <button onclick="filterProjects('data-science')" style="margin-right: 10px; padding: 10px;">Data Science</button>
-    <button onclick="filterProjects('data-engineering')" style="padding: 10px;">Data Engineering</button>
-    <button onclick="filterProjects('software-engineering')" style="margin-right: 10px; padding: 10px;">Software Engineering</button>
-    <button onclick="filterProjects('all')" style="margin-right: 10px; padding: 10px;">All</button>
+    <button onclick="filterProjects('data-science')" 
+            style="margin-right: 10px; padding: 10px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Data Science
+    </button>
+    <button onclick="filterProjects('data-engineering')" 
+            style="padding: 10px; background-color: #27ae60; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Data Engineering
+    </button>
+    <button onclick="filterProjects('software-engineering')" 
+            style="margin-right: 10px; padding: 10px; background-color: #8e44ad; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Software Engineering
+    </button>
+    <button onclick="filterProjects('all')" 
+            style="margin-right: 10px; padding: 10px; background-color: #e67e22; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        All
+    </button>
   </div>
 
   <!-- Project List -->
