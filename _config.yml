@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dive into my experiences to see how I approach challenges and drive impactful solutions. Thank you for visiting, and feel free to reach out with any questions or collaboration ideas!.
 twitter_username: sharmap342
 github_username: sharmap342
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
