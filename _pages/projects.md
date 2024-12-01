@@ -37,7 +37,7 @@ title: "Projects"
         <p>Developed a real-time sentiment analysis application that processes Twitter data using machine learning models like Logistic Regression, XGBoost, and neural networks. Cleaned and transformed 1.6 million tweets with regex and NLTK to improve model accuracy, leveraging scikit-learn and Keras for text classification.</p>
         <p>
           <a href="https://github.com/sharmap342/Sentiment_Analyzer_App" target="_blank">GitHub</a> |
-          <a href="https://your-project-link1.com" target="_blank">Live Demo</a>
+          <a href="https://youtu.be/00uGaKFoboY" target="_blank">Live Demo</a>
         </p>
       </div>
     </div>
