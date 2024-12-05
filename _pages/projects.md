@@ -50,7 +50,7 @@ title: "Projects"
         <p>This project focuses on designing a scalable data lakehouse solution for a major bank to address inefficiencies in data retrieval from its Master Data Management (MDM) system. By integrating Apache Kafka and Hadoop with tools like PySpark, the solution streams real-time data to downstream analytics teams, enabling faster customer segmentation, fraud detection, and credit risk modeling. The new architecture ensures minimal system load and real-time insights for business-critical processes.</p>
         <p>
           <a href="https://github.com/sharmap342/ddlh" target="_blank">GitHub</a> |
-          <a href="https://your-project-link2.com" target="_blank">Live Demo</a>
+          <a href="https://medium.com/@sharmapushpendra342/list/designing-a-data-wareehouse-for-a-big-bank-ae732f83583c" target="_blank">Blog</a>
         </p>
       </div>
     </div>
@@ -89,7 +89,7 @@ title: "Projects"
         <p>Created a Python bot that sends a daily email with a word from a personalized vocabulary list. Leveraged Selenium and Beautiful Soup for web scraping, smtplib for email automation, and Windows Task Scheduler for daily execution, offering a practical approach to vocabulary building tailored to your preferences.</p>
         <p>
           <a href="https://github.com/sharmap342/A_Word_A_Day_Bot" target="_blank">GitHub</a> |
-          <a href="https://medium.com/@sharmapushpendra342/list/designing-a-data-wareehouse-for-a-big-bank-ae732f83583c" target= "_blank">Blog</a>
+          <a href="https://medium.com/@sharmapushpendra342/developing-a-word-a-day-bot-using-python-6088080e1d12" target= "_blank">Blog</a>
         </p>
       </div>
     </div>
