@@ -89,7 +89,7 @@ title: "Projects"
         <p>Created a Python bot that sends a daily email with a word from a personalized vocabulary list. Leveraged Selenium and Beautiful Soup for web scraping, smtplib for email automation, and Windows Task Scheduler for daily execution, offering a practical approach to vocabulary building tailored to your preferences.</p>
         <p>
           <a href="https://github.com/sharmap342/A_Word_A_Day_Bot" target="_blank">GitHub</a> |
-          <a href="https://medium.com/@sharmapushpendra342/developing-a-word-a-day-bot-using-python-6088080e1d12" target= "_blank">Blog</a>
+          <a href="https://medium.com/@sharmapushpendra342/list/designing-a-data-wareehouse-for-a-big-bank-ae732f83583c" target= "_blank">Blog</a>
         </p>
       </div>
     </div>
