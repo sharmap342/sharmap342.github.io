@@ -44,7 +44,7 @@ title: "Projects"
 
     <!-- Data Engineering Project -->
     <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="/assets/images/tohp.gif" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
+      <img src="/assets/images/ddlh.PNG" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Designing a Data Lakehouse for Real-Time Analytics in Banking</h2>
         <p>This project focuses on designing a scalable data lakehouse solution for a major bank to address inefficiencies in data retrieval from its Master Data Management (MDM) system. By integrating Apache Kafka and Hadoop with tools like PySpark, the solution streams real-time data to downstream analytics teams, enabling faster customer segmentation, fraud detection, and credit risk modeling. The new architecture ensures minimal system load and real-time insights for business-critical processes.</p>
