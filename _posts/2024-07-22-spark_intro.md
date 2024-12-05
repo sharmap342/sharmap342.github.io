@@ -1,7 +1,7 @@
 ---
 title: "From Spark to Flame: The Evolutionary Tale of Apache Spark"
-date: 2024-07-22
-last_modified_at: 2024-07-22T16:20:02-05:00
+date: 2024-06-22
+last_modified_at: 2024-06-22T16:20:02-05:00
 categories:
   - Blog
 tags:
