@@ -7,7 +7,7 @@ categories:
 tags:
   - Python
   - Data Science
-link: https://medium.com/@sharmapushpendra342/designing-a-data-lake-house-for-a-big-bank-48c0156d844f
+link: https://medium.com/@sharmapushpendra342/data-wrangling-and-exploration-using-pyspark-7237c38b7bf8
 ---
 > "Data wrangling is not just about cleaning; it’s about structuring data to make it usable and insightful for analysis."
 
