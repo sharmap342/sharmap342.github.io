@@ -17,7 +17,7 @@ title: "Projects"
             style="padding: 10px; background-color: #27ae60; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Data Engineering
     </button>
-    <button onclick="filterProjects('software-engineering')" 
+    <button onclick="filterProjects('data-engineering')" 
             style="margin-right: 10px; padding: 10px; background-color: #8e44ad; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Software Engineering
     </button>
@@ -43,7 +43,7 @@ title: "Projects"
     </div>
 
     <!-- Data Engineering Project -->
-    <div class="project-item data-engineering" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="project-item data-engineering data-science" style="display: flex; align-items: center; margin-bottom: 20px;">
       <img src="/assets/images/ddlh.PNG" alt="Project Image 2" style="width: 200px; height: auto; margin-right: 20px; margin-left: 20px;"/>
       <div>
         <h2 style="margin: 0;">Designing a Data Lakehouse for Real-Time Analytics in Banking</h2>
