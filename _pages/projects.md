@@ -115,6 +115,7 @@ title: "Projects"
         <p>Designed and implemented a modular MATLAB software package for slope stability analysis, leveraging elastic and elasto-plastic finite element methods. The software features automated data preparation, mesh generation, numerical integration, stress-strain visualization, and interactive plotting for analyzing displacement and stress contours.</p>
         <p>
           <a href="https://github.com/sharmap342/Matlab_FEA_Computational_Mechanics" target="_blank">GitHub</a> |
+          <a href="https://github.com/sharmap342/FISH_Java_Codes_Numerical_Methods/blob/main/README.md" target="_blank">Report</a>
         </p>
       </div>
     </div>
