@@ -17,7 +17,7 @@ title: "Projects"
             style="padding: 10px; background-color: #27ae60; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Data Engineering
     </button>
-    <button onclick="filterProjects('data-engineering')" 
+    <button onclick="filterProjects('software-engineering')" 
             style="margin-right: 10px; padding: 10px; background-color: #8e44ad; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Software Engineering
     </button>
